@@ -28,5 +28,5 @@ The Evaluation metric for this competition is weighted F1 Score.
 Public leaderboard is based on randomly selected 30% of the test images, while private leaderboard will be evaluated on remaining 70% of the test images.
 
 ## Leaderboard: 
-    Private Leaderboard: 7
-    Public Leaderboard: TBD
+    Public Leaderboard: 7
+    Private Leaderboard: TBD
